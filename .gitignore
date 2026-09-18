@@ -7,3 +7,7 @@ typechain-types
 .env*
 !.env.example
 coverage
+*.tsbuildinfo
+
+.vercel
+.env*.local
