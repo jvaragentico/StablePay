@@ -2,6 +2,12 @@
 
 A portfolio-grade, testnet-only stablecoin invoicing product. The merchant creates an invoice, the customer approves USDC, the smart contract settles payment directly to the merchant, and the UI produces an onchain receipt.
 
+## Live demo
+
+**[Open StablePay Commerce →](https://stablepay-commerce.vercel.app)**
+
+The public demo runs in simulation mode, so you can test the complete payment flow without a wallet or testnet funds.
+
 ## Demo modes
 
 - **Simulation (default):** the complete six-step experience works without a wallet, keys, or test tokens. Ideal for a public portfolio deployment.
